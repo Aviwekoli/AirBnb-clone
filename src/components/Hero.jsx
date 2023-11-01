@@ -10,6 +10,6 @@ const Hero = () => {
             one-of-a-kind hosts—all without leaving home.</p>
         </section>
     )
-} 
+}
 
 export default Hero;
